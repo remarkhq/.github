@@ -1,5 +1,6 @@
-![Remark logo](remark.svg)
-# Remark
+<p align="center">
+  <img src="remark.svg" alt="Remark logo" />
+</p>
 
 > Conversations for the open web.
 
