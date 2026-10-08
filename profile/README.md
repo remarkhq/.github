@@ -1,3 +1,4 @@
+![Remark logo](remark.svg)
 # Remark
 
 > Conversations for the open web.
